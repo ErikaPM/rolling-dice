@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  font-family: 'Nunito Sans', sans-serif;
+  padding: 20px;
+  background-color: #25283D;
+  color: aliceblue;
+}
+
+.display {display: flex;}
