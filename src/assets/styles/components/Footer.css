@@ -1,0 +1,10 @@
+.main-footer {
+    background-color: blueviolet;
+    height: 100px;
+    width: 100%;
+    padding: 30px;
+    text-align: center;
+    font-size: 15px;
+    position: absolute;
+    bottom: 0;
+}
